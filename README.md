@@ -20,23 +20,24 @@ Kaiburr-Task1/
 ├── mvnw.cmd
 ├── .mvn/
 ├── src/
-│ ├── main/
-│ │ ├── java/com/kaiburr/task1/
-│ │ │ ├── controller/TaskController.java
-│ │ │ ├── model/Task.java
-│ │ │ ├── model/TaskExecution.java
-│ │ │ ├── repository/TaskRepository.java
-│ │ │ └── KaiburrTask1Application.java
-│ │ └── resources/application.properties
-│ └── test/
+│   ├── main/
+│   │   ├── java/com/kaiburr/task1/
+│   │   │   ├── controller/TaskController.java
+│   │   │   ├── model/Task.java
+│   │   │   ├── model/TaskExecution.java
+│   │   │   ├── repository/TaskRepository.java
+│   │   │   └── KaiburrTask1Application.java
+│   │   └── resources/application.properties
+│   └── test/
 ├── screenshots/
-│ ├── 1_put_create_task.png
-│ ├── 2_get_all_tasks.png
-│ ├── 3_get_search_task.png
-│ ├── 4_put_execute_task.png
-│ ├── 5_mongodb_verification.png
-│ └── 6_delete_task.png
+│   ├── 1_put_create_task.png
+│   ├── 2_get_all_tasks.png
+│   ├── 3_get_search_task.png
+│   ├── 4_put_execute_task.png
+│   ├── 5_mongodb_verification.png
+│   └── 6_delete_task.png
 └── README.md
+
 
 
 ## Setup Instructions
