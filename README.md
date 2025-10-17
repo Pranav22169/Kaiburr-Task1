@@ -14,31 +14,7 @@ All data is stored in a MongoDB database.
 - Postman (for API testing)
 
 ## Project Structure
-Kaiburr-Task1/
-├── pom.xml
-├── mvnw
-├── mvnw.cmd
-├── .mvn/
-├── src/
-│   ├── main/
-│   │   ├── java/com/kaiburr/task1/
-│   │   │   ├── controller/TaskController.java
-│   │   │   ├── model/Task.java
-│   │   │   ├── model/TaskExecution.java
-│   │   │   ├── repository/TaskRepository.java
-│   │   │   └── KaiburrTask1Application.java
-│   │   └── resources/application.properties
-│   └── test/
-├── screenshots/
-│   ├── 1_put_create_task.png
-│   ├── 2_get_all_tasks.png
-│   ├── 3_get_search_task.png
-│   ├── 4_put_execute_task.png
-│   ├── 5_mongodb_verification.png
-│   └── 6_delete_task.png
-└── README.md
-
-
+refer File_Structure.png
 
 ## Setup Instructions
 
