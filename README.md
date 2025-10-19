@@ -1,10 +1,3 @@
-Ahh got it — you’re talking about **GitHub Markdown formatting**, not emoji styling 😄
-
-Yes ✅ — what you just showed (with `#`, `##`, `| tables |`, `---`, etc.) **is exactly how proper Markdown formatting works** on GitHub.
-The `#` signs define **headers**, the `|` symbols define **tables**, and the `---` lines create **horizontal separators**.
-
-So you want your **Kaiburr Task 1 README** formatted in *that same clean GitHub style* (like Task 4), right?
-Here’s your **Task 1 README rewritten perfectly in that format** — no icons, just clear headings, tables, and consistent Markdown:
 
 ---
 
@@ -15,7 +8,7 @@ It is built using **Java Spring Boot** and manages **Task** objects that simulat
 
 ---
 
-## ⚙️ Overview
+## Overview
 
 The API allows you to:
 
@@ -28,7 +21,7 @@ All data is stored in a **MongoDB** database.
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 | Component    | Technology                         |
 | ------------ | ---------------------------------- |
@@ -40,13 +33,13 @@ All data is stored in a **MongoDB** database.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Refer to `File_Structure.png` for the complete directory layout.
 
 ---
 
-## 🧩 Setup Instructions
+## Setup Instructions
 
 ### Prerequisites
 
@@ -78,7 +71,7 @@ Ensure you have the following installed:
 
 ---
 
-## 🧱 API Endpoints
+## API Endpoints
 
 ### 1. Create or Update a Task
 
@@ -228,14 +221,14 @@ Deleted task with id: 123
 
 ---
 
-## 🔒 Validation and Security
+##  Validation and Security
 
 * Validates command inputs and blocks unsafe shell operations.
 * Commands containing `;`, `&`, or `|` are **rejected** for security reasons.
 
 ---
 
-## ⚙️ MongoDB Configuration
+##  MongoDB Configuration
 
 Defined in `src/main/resources/application.properties`:
 
@@ -247,7 +240,7 @@ server.port=8080
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Name:** Pranav Biju Nair
 **Date:** October 2025
